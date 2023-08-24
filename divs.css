@@ -1,0 +1,19 @@
+div.caixa{
+    height: fit-content;
+    width: fit-content;
+}
+
+div#esquerda{
+    float: left;
+}
+
+div#direita{
+    float: right;
+}
+
+div#title{
+    background-color: rgba(2, 2, 2, 0.363);
+    width: inherit;
+    height: 100px;
+    border: 0cm;
+}
