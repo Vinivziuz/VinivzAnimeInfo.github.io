@@ -17,3 +17,17 @@ div#title{
     height: 100px;
     border: 0cm;
 }
+
+div#menu{
+    background-color: rgba(2, 2, 2, 0.521);
+    height: inherit;
+    width: 300px;
+    float: left;
+}
+
+div.anime{
+    float: left;
+    margin: 20px;
+    border: 2px solid rgba(2, 2, 2, 0.521);
+    background-color: rgba(2, 2, 2, 0.521);
+}
