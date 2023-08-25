@@ -4,6 +4,7 @@ div.caixa{
 }
 
 div#esquerda{
+    margin: 20px;
     float: left;
 }
 
@@ -21,7 +22,7 @@ div#title{
 div#menu{
     background-color: rgba(2, 2, 2, 0.521);
     height: inherit;
-    width: 300px;
+    width: 200px;
     float: left;
 }
 
